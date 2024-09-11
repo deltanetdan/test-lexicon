@@ -9,4 +9,181 @@
         <grapheme>999</grapheme>
         <alias>9 9 9</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>80/20</grapheme>
+        <grapheme>80:20</grapheme>
+        <alias>eighty twenty</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>AI</grapheme>
+        <phoneme>ˈeɪ.ˈaɪ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Allwyn</grapheme>
+        <alias>all-win</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>AI's</grapheme>
+        <alias>ay eyes</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>aliases</grapheme>
+        <phoneme>ˈeɪ.li.ə.sɪz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>ATE</grapheme>
+        <phoneme>ˈeɪ.ˈtiː.ˈiː</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>(Cap. 201)</grapheme>
+        <alias>cap two zero one</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>(Cap. 210)</grapheme>
+        <alias>cap two one zero</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>(Cap. 553)</grapheme>
+        <alias>cap five five three</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>(Cap. 571)</grapheme>
+        <alias>cap five seven one</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>CO2</grapheme>
+        <alias>C O 2</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Dos</grapheme>
+        <phoneme>duːz</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>dyscalculia</grapheme>
+        <grapheme>Dyscalculia</grapheme>
+        <phoneme>ˌdɪs.kælˈkjuː.li.ə</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>HIV</grapheme>
+        <phoneme>ˈeɪtʃ.ˈaɪ.ˈviː</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurodevelopmental</grapheme>
+        <grapheme>Neurodevelopmental</grapheme>
+        <alias>neuro-developmental</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurodivergence</grapheme>
+        <grapheme>Neurodivergence</grapheme>
+        <alias>neuro-divergence</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurodivergent</grapheme>
+        <grapheme>Neurodivergent</grapheme>
+        <alias>neuro-divergent</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurodiversity</grapheme>
+        <grapheme>Neurodiversity</grapheme>
+        <alias>neuro-diversity</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurological</grapheme>
+        <grapheme>Neurological</grapheme>
+        <alias>neuro-logical</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurotypical</grapheme>
+        <grapheme>Neurotypical</grapheme>
+        <alias>neuro-typical</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>neurotypicality</grapheme>
+        <grapheme>Neurotypicality</grapheme>
+        <alias>neuro-typicality</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>OFSI</grapheme>
+        <alias>off sea</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>privacy-by-design</grapheme>
+        <alias>privacy by design</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>pseudonymisation</grapheme>
+        <phoneme>sjuːˌdɒn.ɪ.maɪˈzeɪ.ʃən</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>RIDDOR</grapheme>
+        <alias>rihdoar</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>SRA</grapheme>
+        <phoneme>ˈes.ˈɑː.ˈeɪ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Tiananmen</grapheme>
+        <phoneme>ˈtjɛnənmən</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>MoDel</grapheme>
+        <alias>Mo Dell</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>27001</grapheme>
+        <alias>twenty seven thousand and one</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>compliance@ebbon-group.com</grapheme>
+        <alias>compliance at Eb-bunn hyphen group dot com</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Contractually</grapheme>
+        <grapheme>contractually</grapheme>
+        <phoneme>kənˈtræk.tʃu.ə.li</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>family-friendly</grapheme>
+        <alias>family friendly</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>symbiotic</grapheme>
+        <grapheme>Symbiotic</grapheme>
+        <phoneme>ˌsɪm.baɪˈɒt.ɪk</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>SEC</grapheme>
+        <alias>S E C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>Casually</grapheme>
+        <grapheme>casually</grapheme>
+        <phoneme>ˈkæʒ.ju.ə.li</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Navinder</grapheme>
+        <phoneme>nævɪndɜː</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>MAR</grapheme>
+        <alias>mar</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>financing</grapheme>
+        <phoneme>ˈfaɪ.nænsɪŋ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>financed</grapheme>
+        <phoneme>ˈfaɪ.nænst</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Layering</grapheme>
+        <grapheme>layering</grapheme>
+        <phoneme>ˈleɪ.ə.rɪŋ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>He's</grapheme>
+        <phoneme>hiːz</phoneme>
+    </lexeme>
 </lexicon>
